@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "HP";
+  src: url(harry.ttf);
+}
+
+.students {
+  font-family: "HP";
+  font-size: 30px;
+}
+
+.onestudent {
+  border: solid black;
+}
